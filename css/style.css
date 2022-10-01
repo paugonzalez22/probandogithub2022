@@ -1,0 +1,114 @@
+/*  */
+
+.navbar-brand img {max-width: 100px;}
+
+#boton1{color:#25a342}
+
+/*Estilo de los titulos*/
+
+/*Estilo de carrusel*/
+
+.carousel-item
+{
+   background-size: cover;
+   background-position: center center; 
+    opacity: .8
+}
+
+.card-group
+{
+    display: flex;
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.Contenido
+{
+    background-size: cover;
+}
+
+#Java
+{
+    background-color: yellow;
+    color: black;
+}
+
+#Reac
+{
+    background-color:green ;
+    color: white;
+
+}
+
+#Negocio
+{
+    background-color: gray;
+    color: white;
+}
+#Star
+{
+    background-color: red;
+    color: white;
+}
+
+#Centrado1
+{
+    height: 100px;
+    width: 200px;
+    background-color: transparent;
+    margin: auto;
+}
+
+#recuadro
+{
+    background-color: rgb(87, 86, 86);
+    color: white;
+}
+
+#botones
+{
+    color:#edf3ef,
+    
+
+}
+#quiero
+{
+    background-color: transparent;
+}
+
+#comprar
+{
+    background-color: rgb(85, 250, 20);
+}
+
+#Centrado2
+{
+    height: 100px;
+    width: 600px;
+    align-content: center;
+    background-color: transparent;   
+     
+}
+#color
+{
+    background-color: #077e7e;
+}
+#botoncolor
+{background-color: rgb(107, 231, 49);
+
+}
+
+.container-fluid
+{
+    max-width: 100%;
+    background-position: center;
+}
+
+#linea
+{
+    background-color: #104646;
+    color-scheme: white;
+}
