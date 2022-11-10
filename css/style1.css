@@ -1,0 +1,19 @@
+#cuadro
+{
+    background-color: blue;
+
+}
+#centrado
+{
+    align-items: center;
+}
+
+card-group
+{
+    display: flex;
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    justify-content: space-around;
+    align-items: flex-end;
+}
