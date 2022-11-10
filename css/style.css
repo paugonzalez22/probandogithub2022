@@ -112,3 +112,11 @@
     background-color: #104646;
     color-scheme: white;
 }
+
+#venta
+{
+    height: 50px;
+    width: 100px;
+    background-color: transparent;
+    margin: auto;
+}
